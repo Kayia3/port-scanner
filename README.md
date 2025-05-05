@@ -2,7 +2,7 @@
 A multithreaded Python port scanner that scans a range of TCP ports on a given target host and saves the results in JSON or CSV format. 
 It supports threading for faster scans and outputs detailed scan metadata including duration and common services.
 
-Features:
+Features: 
  -multithreaded scanning with ThreadPoolExecutor
  -customizable port range and thread count
  -outputs results in JSON or CSV format
